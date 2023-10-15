@@ -1,6 +1,5 @@
 .container{
     text-align: center;
-
 }
 table{
     margin: auto;
@@ -14,7 +13,7 @@ input{
 }
 button{
     font-size: 40px;
-    background: rgb(18, 209, 43);
+    background: rgb(20, 200, 40);
     border: solid 4px black;
     height: 80px;
     width: 90px;
