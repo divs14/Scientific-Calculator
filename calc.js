@@ -52,14 +52,12 @@ for(item of buttons)
         else if(buttonText=='lnx')
         {
             var x = eval(screen1.value);
-            //x*=(Math.PI)/180;
             screen1.value=Math.log(x);
             calculation=screen1.value;
         }
         else if(buttonText=='e^x')
         {
             var x = eval(screen1.value);
-            //x*=(Math.PI)/180;
             screen1.value=Math.exp(x);
             calculation=screen1.value;
         }
